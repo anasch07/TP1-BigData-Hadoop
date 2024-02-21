@@ -1,0 +1,4 @@
+/home/ch/tp-hadoop/wordcount/src/main/java/hadoop/mapreduce/tp1/TokenizerMapper.java
+/home/ch/tp-hadoop/wordcount/src/main/java/hadoop/mapreduce/tp1/WordCount.java
+/home/ch/tp-hadoop/wordcount/src/main/java/hadoop/mapreduce/tp1/IntSumReducer.java
+/home/ch/tp-hadoop/wordcount/src/main/java/hadoop/mapreduce/Main.java
